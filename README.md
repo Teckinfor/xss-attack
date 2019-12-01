@@ -1,6 +1,6 @@
 # xss-attack
 Code utilisé pour démontrer l'attaque XSS (cross-site scripting) sur le site : altoromutual.com.
-Ce travail est réalisé pour une présentation dans le cadre cours d'introduction à la sécurité informatique.
+Ce travail est réalisé pour une présentation dans le cadre du cours d'introduction à la sécurité informatique.
 
 ## Comment reproduire l'attaque ?
 1. Lancer le serveur python dans l'invite de commande : python listening-server.py.
